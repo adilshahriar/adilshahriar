@@ -5,7 +5,7 @@
 
 - 🔭 Finished MSc. from [Institute of Remote Sensing & GIS](https://www.juniv.edu/institute/irs)
 
-- 🌱 I’m working on **Combined Drought Monitoring**
+- 🌱 Current Project: **Combined Drought Monitoring Model**
 
 - 👯 I’m currently working on [Space Research and Remote Sensing Organization](https://sparrso.gov.bd/)
 
