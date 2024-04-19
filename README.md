@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilshahriar&label=Profile%20views&color=ded70d&style=plastic" alt="adilshahriar" /> </p>
 
-- 🔭 I’m currently studying on [Institute of Remote Sensing & GIS](https://www.juniv.edu/institute/irs)
+- 🔭 Finished MSc. from [Institute of Remote Sensing & GIS](https://www.juniv.edu/institute/irs)
 
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**
+- 🌱 I’m working on **Combined Drought Monitoring**
 
 - 👯 I’m currently working on [Space Research and Remote Sensing Organization](https://sparrso.gov.bd/)
 
