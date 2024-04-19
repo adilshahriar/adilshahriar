@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
-- 👯 I’m currently working on [Omdena Bangladesh Chapter](https://omdena.com/chapter-challenges/fertilizer-recommendation-system-to-ensure-high-crop-yields-in-bangladesh/)
+- 👯 I’m currently working on [Space Research and Remote Sensing Organization](https://sparrso.gov.bd/)
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/adilshahriar/home](https://sites.google.com/view/adilshahriar/home)
 
